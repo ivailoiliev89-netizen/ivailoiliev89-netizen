@@ -1,6 +1,5 @@
-##  Resume
-[Download my Resume (PDF)](./Resume_Ivailo_Iliqnov_Iliev_Python_Developer.pdf)
+##  Resume and Contact
 
-##  Technologies and Tools
-Python, Django REST Framework, HTML, CSS, JavaScript, Bootstrap, PostgreSQL.
-Now I am learning : Docker, Postman and Heroku for deployment.
+- ***Resume:*** :  [Download my Resume (PDF)](./Resume_Ivailo_Iliqnov_Iliev_Python_Developer.pdf)
+- ***LinkedIn*** :  Ivailo Iliqnov Iliev (https://www.linkedin.com/in/your-profile-url/](https://www.linkedin.com/in/ivailo-iliev-a2302471/))
+- ***Email*** :  ivailoiliev89@gmail.com(mailto:your.email@example.com)
